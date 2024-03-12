@@ -1,0 +1,13 @@
+torch==1.13.1+cu117
+spikingjelly==0.0.0.0.12
+numpy==1.22.0
+tensorboard==2.16.2
+argparse==1.4.0
+torchvision~=0.14.1+cu117
+torchtoolbox~=0.1.8.2
+prefetch-generator
+einops
+Pillow
+cupy-cuda11x
+prefetch_generator
+opencv-python-headless
