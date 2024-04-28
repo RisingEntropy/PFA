@@ -7,7 +7,7 @@ Haoyu Deng<sup>a</sup>, Ruijie Zhu<sup>b</sup>, Xuerui Qiu<sup>a</sup>, Yule Dua
 
 <sup>a</sup>University of Electronic Science and Technology of China, 611731, China
 
-<sup>b</sup>University of California, Santa Cruz, 95064, The United States
+<sup>b</sup>University of California, Santa Cruz, 95064, United States
 
 <sup>†</sup>Corresponding authors
 ![img.png](img.png)
