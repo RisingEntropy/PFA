@@ -10,12 +10,15 @@ Haoyu Deng<sup>a</sup>, Ruijie Zhu<sup>b</sup>, Xuerui Qiu<sup>a</sup>, Yule Dua
 <sup>b</sup>University of California, Santa Cruz, 95064, United States
 
 <sup>†</sup>Corresponding authors
+
+If you have any questions, feel free to raise an issue or send a mail to `academic@hydeng.cn`. I will respond to you as soon as possible.
+
 ![img.png](img.png)
 
 
 This is the official repository for paper *Tensor Decomposition Based Attention Module for Spiking Neural Networks* 
 
-paper:[pdf](https://arxiv.org/pdf/2310.14576.pdf)
+paper:[[pdf](https://arxiv.org/pdf/2310.14576.pdf)]
 
 
 ## CIFAR10/CIFAR100
@@ -73,7 +76,7 @@ For more configuration, please refer to the code. The code is simple and clear.
 We conduct generation tasks based on [FSVAE](https://github.com/kamata1729/FullySpikingVAE). The modified code is in the `Generation` folder. To run it, please refer to `Generation/README.md`
 
 ## Citation
-If you think our work is useful, please give us a worm citation!
+If you think our work is useful, please give us a warm citation!
 ```
 @article{DENG2024111780,
 title = {Tensor decomposition based attention module for spiking neural networks},
